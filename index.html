@@ -41,6 +41,9 @@
       alert("Thanks for signing up, we appreciate your interest.");
       hideEmailPopup();
     }
+    window.addEventListener('pageshow', () => {
+      document.getElementById('email-popup')?.classList.add('hidden');
+    });
   </script>
 
 </head>
@@ -223,7 +226,7 @@
         Subscribe
       </button>
     </form>
-    <button onclick="hidePopup()" class="mt-4 text-sm text-gray-500 hover:underline">Cancel</button>
+    <button onclick="hideEmailPopup()" class="mt-4 text-sm text-gray-500 hover:underline">Cancel</button>
   </div>
 </div>
 
