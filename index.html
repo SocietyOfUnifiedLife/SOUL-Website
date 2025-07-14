@@ -21,7 +21,28 @@
     function hidePopup() {
       document.getElementById('popup').classList.add('hidden');
     }
+
+    function showEmailPopup() {
+      document.getElementById('email-popup').classList.remove('hidden');
+    }
+  
+    function hideEmailPopup() {
+      document.getElementById('email-popup').classList.add('hidden');
+    }
+  
+    function submitEmail() {
+      const email = document.getElementById('emailInput').value;
+      if (!email || !email.includes('@')) {
+        alert("Please enter a valid email address.");
+        return;
+      }
+  
+      // Placeholder: Replace with integration to your mailing list provider
+      alert("Thanks for signing up! This feature isn't live yet.");
+      hideEmailPopup();
+    }
   </script>
+
 </head>
 <body class="bg-white text-gray-800">
   <!-- Navbar -->
@@ -160,7 +181,7 @@
           Visit Our Youtube
         </a>
         
-        <button onclick="showPopup()" class="block px-6 py-3 bg-gray-800 text-white rounded hover:bg-gray-900 inline-block">Join Our Email List</button>
+        <button onclick="showEmailPopup()" class="block px-6 py-3 bg-gray-800 text-white rounded hover:bg-gray-900 inline-block">Join Our Email List</button>
         
         <button onclick="showPopup()" class="block px-6 py-3 bg-yellow-600 text-white rounded hover:bg-yellow-700 inline-block">Download the SOUL Starter Kit</button>
       </div>
@@ -184,5 +205,15 @@
       <p class="text-sm">Site built with love, cooperation, and open-source ethics.</p>
     </div>
   </footer>
+  <div id="email-popup" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+  <div class="bg-white p-6 rounded shadow-lg text-center max-w-sm w-full">
+    <h3 class="text-xl font-bold mb-2">Join Our Email List</h3>
+    <p class="text-sm text-gray-600 mb-4">Be the first to hear about updates, events, and opportunities.</p>
+    <input id="emailInput" type="email" placeholder="you@example.com" class="w-full px-4 py-2 border rounded mb-4" />
+    <button onclick="submitEmail()" class="w-full px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">Submit</button>
+    <button onclick="hideEmailPopup()" class="mt-2 text-sm text-gray-500 hover:text-gray-700">Cancel</button>
+  </div>
+</div>
+
 </body>
 </html>
