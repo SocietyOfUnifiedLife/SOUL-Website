@@ -78,7 +78,7 @@ We are currently in:
 * Refining internal structure
 * No branding or ideology—just service
 
-Upcoming phases: chapter formation, media rollout, and global node empowerment. See [`roadmap/phases.md`](https://github.com/AaronBClark/SOUL/blob/main/roadmap/phases.md) for full breakdown.
+Upcoming phases: chapter formation, media rollout, and global node empowerment. See [`roadmap/phases.md`](https://github.com/AaronBClark/SOUL/blob/main/roadmap/phases.md) for full breakdown (coming soon).
 
 ---
 
