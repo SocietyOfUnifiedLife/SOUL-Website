@@ -1,7 +1,20 @@
-<section class="py-16 bg-white text-center">
-  <div class="max-w-3xl mx-auto px-4">
-    <h2 class="text-3xl font-bold mb-4">What Is SOUL?</h2>
-    <p class="text-lg mb-4">SOUL is a peaceful, open-source framework for local and global cooperation. It's not a revolution or a religion—it's a model for aligned service and transparency.</p>
-    <a href="/about/introduction.html" class="text-blue-600 underline">Read the Full Introduction</a>
+<section class="relative h-[60vh] md:h-[50vh] bg-cover bg-center bg-no-repeat"
+         style="background-image: url('');">
+  <!-- dark overlay -->
+  <div class="absolute inset-0 bg-black bg-opacity-50"></div>
+
+  <!-- centered content -->
+  <div class="relative z-10 flex flex-col items-center justify-center h-full px-4 text-center">
+    <h2 class="text-4xl font-bold text-white mb-4">What Is Soul?</h2>
+    
+    <div class="text-white max-w-3xl mb-6">
+      {% capture section_text %}{% include_relative _content/homepage/home-what-is-soul.md %}{% endcapture %}
+      {{ section_text | markdownify }}
+    </div>
+
+    <a href="{{ site.baseurl }}/LINK-TARGET.html"
+       class="bg-white text-black font-semibold px-6 py-2 rounded hover:bg-gray-200 transition">
+      READ MORE
+    </a>
   </div>
 </section>
