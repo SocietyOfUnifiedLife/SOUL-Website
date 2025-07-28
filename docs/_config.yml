@@ -1,6 +1,6 @@
 # /docs/_config.yml
 title: Society of Unified Life
-baseurl: "" # leave blank if hosted at root
+baseurl: "/docs" # leave blank if hosted at root
 markdown: kramdown
 theme: tactile # optional
 
