@@ -1,12 +1,11 @@
-<section class="py-16 bg-gray-100 text-center">
-  <div class="max-w-3xl mx-auto px-4">
-    <h2 class="text-3xl font-bold mb-4">Our Philosophy</h2>
-    <ul class="text-lg mb-4 space-y-1">
-      <li>🧘 Nonviolence as Power</li>
-      <li>🔍 Transparency Builds Trust</li>
-      <li>🌐 Decentralized Leadership</li>
-    </ul>
-    <p class="italic mb-4">“No one has to believe anything to belong.”</p>
-    <a href="/about/philosophy.html" class="text-blue-600 underline">Explore the Full Philosophy</a>
+<section class="relative bg-cover bg-center bg-no-repeat h-[60vh] md:h-[50vh]" style="background-image: url('{{ site.baseurl }}/images/teamwork.jpg');">
+  <div class="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center px-4 text-center">
+    <div class="text-white max-w-3xl">
+      <h2 class="text-4xl font-bold mb-4">Our Philosophy</h2>
+      <p class="text-lg leading-relaxed">
+        {% capture philosophy_text %}{% include_relative _content/home/home-philosophy.md %}{% endcapture %}
+        {{ philosophy_text | markdownify }}
+      </p>
+    </div>
   </div>
 </section>
