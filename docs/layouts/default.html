@@ -3,12 +3,26 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Society of Unified Life (SOUL) is a decentralized humanitarian framework for service, resilience, and ethical coordination." />
+  <meta property="og:title" content="{{ page.title }} | SOUL" />
+  <meta property="og:description" content="A quiet flame for a loud world. Explore how you can join the SOUL movement." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:image" content="/images/preview.jpg" /> <!-- Replace with actual preview image -->
   <title>{{ page.title }} | SOUL</title>
+
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/images/favicon/site.webmanifest">
+
+  <!-- Styles -->
   <link rel="stylesheet" href="/styles/style.css" />
 </head>
 <body>
   {% include navbar.html %}
-  
+
   <main class="container mx-auto p-4">
     {{ content }}
   </main>
@@ -16,4 +30,3 @@
   {% include footer.html %}
 </body>
 </html>
-
