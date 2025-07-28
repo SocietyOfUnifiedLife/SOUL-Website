@@ -1,6 +1,6 @@
 # /docs/_config.yml
 title: Society of Unified Life
-baseurl: "/soul-website" # leave blank if hosted at root
+baseurl: "/SOUL-Website" # leave blank if hosted at root
 markdown: kramdownhttps://github.com/SocietyOfUnifiedLife/SOUL-Website/blob/main/docs/_config.yml
 remote-theme: pages-themes/tactile@v0.2.0 # optional
 plugins:
