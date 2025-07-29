@@ -1,8 +1,3 @@
----
-layout: default
-title: home-introduction
----
-
 ## A Quiet Flame for a Loud World
 
 We are living at a pivotal moment in history.
