@@ -2,7 +2,7 @@
 
 ---
 
-## 🔗 Before You Begin
+## Before You Begin
 
 SOUL stands on non‑violence, transparency, and decentralized cooperation.  
 This guide is the practical next‑step ladder.
@@ -119,7 +119,7 @@ This guide is the practical next‑step ladder.
 
 ---
 
-## 🧡 Final Note
+## Final Note
 
 Move at your own pace. These tiers are **options, not obligations**.  
 If all you do is realign one daily habit, that’s enough.  
@@ -131,7 +131,7 @@ Welcome to SOUL, where every good deed matters.
 
 ---
 
-## 🔗 Quick Links
+## Quick Links
 
 - [SOUL Website](https://societyofunifiedlife.github.io/SOUL-Website/)  
 - [SOUL Introduction](https://societyofunifiedlife.github.io/SOUL-Website/about/introduction.html)  
