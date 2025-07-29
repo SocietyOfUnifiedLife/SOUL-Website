@@ -1,3 +1,8 @@
+---
+layout: default
+title: home-philosophy
+---
+
 ## Unity Without Uniformity
 
 We align through values — not dogma.  
