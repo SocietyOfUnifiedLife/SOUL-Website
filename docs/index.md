@@ -37,7 +37,7 @@ title: Home
    markdown="home-quick-start.md"
    bg="network_2.jpg"
    link="/about/quick-start-guide.html"
-   button="Start Here"
+   button="Quick-Start Guide"
    flip="md:flex-row-reverse" 
 %}
 
