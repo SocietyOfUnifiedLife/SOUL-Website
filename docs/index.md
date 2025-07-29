@@ -11,6 +11,7 @@ title: Home
    bg="mountains.jpg"
    link="/about/introduction.html"
    button="Read the Full Introduction"
+   flip="md:flex-row" 
 %}
 
 {% include section-main.html
@@ -19,6 +20,7 @@ title: Home
    bg="teamwork.jpg"
    link="/about/philosophy.html"
    button="Explore the Philosophy"
+   flip="md:flex-row-reverse" 
 %}
 
 {% include section-main.html
@@ -27,6 +29,7 @@ title: Home
    bg="network_2.jpg"
    link="/about/quick-start-guide.html"
    button="Start Here"
+   flip="md:flex-row" 
 %}
 
 {% include section-main.html
@@ -35,6 +38,7 @@ title: Home
    bg="transparency.jpg"
    link="/about/transparency.html"
    button="View Our Pledge"
+   flip="md:flex-row-reverse" 
 %}
 
 {% include homepage/contact.html %}
