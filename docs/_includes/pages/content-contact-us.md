@@ -1,4 +1,4 @@
-### If you have questions, ideas, or want to get involved, please reach out using the form below.
+If you have questions, ideas, or want to get involved, please reach out using the form below.
 
 <form action="https://formspree.io/f/xvgqrdqn" method="POST" class="space-y-6 mt-6">
   <div>
