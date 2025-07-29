@@ -24,20 +24,20 @@ title: Home
 %}
 
 {% include section-main.html
-   title="Get Involved"
-   markdown="home-quick-start.md"
-   bg="network_2.jpg"
-   link="/about/quick-start-guide.html"
-   button="Start Here"
-   flip="md:flex-row" 
-%}
-
-{% include section-main.html
    title="Radical Transparency"
    markdown="home-transparency.md"
    bg="transparency.jpg"
    link="/about/transparency.html"
    button="View Our Pledge"
+   flip="md:flex-row" 
+%}
+
+{% include section-main.html
+   title="Get Involved"
+   markdown="home-quick-start.md"
+   bg="network_2.jpg"
+   link="/about/quick-start-guide.html"
+   button="Start Here"
    flip="md:flex-row-reverse" 
 %}
 
