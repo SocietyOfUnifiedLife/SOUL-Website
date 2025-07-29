@@ -1,7 +1,5 @@
 
-# 🌍 SOUL Central Philosophy
-
-## Our Moment in History
+## 🌍 Our Moment in History
 
 For most of human history, change came slowly. Today, technology advances faster than our culture, faster than our laws, faster than our ability to adapt. We’ve gained tools of immense power—but our systems remain burdened by fear, division, and short-term thinking.
 
