@@ -6,7 +6,7 @@ title: Home
 {% include homepage/hero.html %}
 
 {% include section-main.html
-   title="What Is Soul?"
+   title="What Is SOUL?"
    markdown="home-introduction.md"
    bg="mountains.jpg"
    link="/about/introduction.html"
