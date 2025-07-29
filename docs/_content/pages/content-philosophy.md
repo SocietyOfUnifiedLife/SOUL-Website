@@ -1,5 +1,5 @@
 
-# 🌍 SOUL Central Philosophy v3.2
+# 🌍 SOUL Central Philosophy
 
 ## Our Moment in History
 
