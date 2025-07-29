@@ -1,4 +1,3 @@
-## Radical Transparency, From the Start
 
 ##### We’re not official yet — no bank account, no paperwork, no funding. 
 
