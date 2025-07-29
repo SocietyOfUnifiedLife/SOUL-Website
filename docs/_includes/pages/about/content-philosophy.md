@@ -1,5 +1,5 @@
 
-## 🌍 Our Moment in History
+## Our Moment in History
 
 For most of human history, change came slowly. Today, technology advances faster than our culture, faster than our laws, faster than our ability to adapt. We’ve gained tools of immense power—but our systems remain burdened by fear, division, and short-term thinking.
 
@@ -42,7 +42,7 @@ We aim to show that a united, nonviolent, and prosperous future is not only poss
 
 ## Core Principles
 
-### 🧘 Self & Service
+### Self & Service
 
 1. **Nonviolence as Power**  
    Strength through peace, not coercion.
@@ -55,7 +55,7 @@ We aim to show that a united, nonviolent, and prosperous future is not only poss
 
 ---
 
-### 🔎 Transparency & Structure
+### Transparency & Structure
 
 4. **Transparency Builds Trust**  
    Secrecy breeds suspicion. Openness invites alignment.
@@ -68,7 +68,7 @@ We aim to show that a united, nonviolent, and prosperous future is not only poss
 
 ---
 
-### 🌍 Unity & Diversity
+### Unity & Diversity
 
 7. **Inclusion Without Indoctrination**  
    No one has to believe anything to belong.
