@@ -1,1 +1,20 @@
+<section class="relative min-h-screen bg-fixed bg-center bg-cover bg-no-repeat"
+         style="background-image: url('{{ site.baseurl }}/images/{{ include.bg | default: 'default-bg.jpg' }}');">
+  
+  <!-- overlay -->
+  <div class="absolute inset-0 bg-black bg-opacity-60"></div>
+
+  <!-- content -->
+  <div class="relative z-10 flex flex-col items-center justify-center px-6 py-16 text-white text-center">
+    <h1 class="text-4xl md:text-5xl font-bold mb-8 drop-shadow-md">
+      {{ include.title }}
+    </h1>
+    <div class="prose prose-invert prose-xl max-w-4xl text-left">
+      {% capture page_text %}
+        {% include_relative {{ include.markdown }} %}
+      {% endcapture %}
+      {{ page_text | markdownify }}
+    </div>
+  </div>
+</section>
 
