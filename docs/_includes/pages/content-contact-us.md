@@ -26,7 +26,7 @@
   </button>
 </form>
 
-  <div class="space-y-3">
+  <div class="space-x-3">
     <a href="https://discord.gg/q7fjhCwk" target="_blank" class="block px-6 py-3 bg-blue-600 text-white rounded hover:bg-blue-700">Join Discord</a>
     <a href="https://patreon.com/SocietyofUnifiedLife" target="_blank" class="block px-6 py-3 bg-green-600 text-white rounded hover:bg-green-700">Support on Patreon</a>
     <a href="https://github.com/SocietyOfUnifiedLife" class="block px-6 py-3 bg-gray-800 text-white rounded hover:bg-gray-900">Browse Github</a>
