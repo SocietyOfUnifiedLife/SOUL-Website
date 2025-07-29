@@ -1,5 +1,5 @@
 
-## 🌱 Why Transparency Matters
+## Why Transparency Matters
 
 The Society of Unified Life (SOUL) is built on a single, quiet truth: that trust is earned through clarity, not persuasion.
 
@@ -13,7 +13,7 @@ This document is our first step toward radical clarity. It’s not perfect—but
 
 ---
 
-## 🧭 What Transparency Means to Us
+## What Transparency Means to Us
 
 Our transparency is guided by four key principles:
 
@@ -31,7 +31,7 @@ Our transparency is guided by four key principles:
 
 ---
 
-## 💡 Our Current Operating Reality (as of July 2025)
+## Our Current Operating Reality (as of July 2025)
 
 We’re still in **Phase 1: Seeding the Vision**. That means:
 
@@ -52,9 +52,9 @@ We’re still in **Phase 1: Seeding the Vision**. That means:
 
 ---
 
-## 💰 How We Handle Money
+## How We Handle Money
 
-### 📊 Financial Model
+### Financial Model
 
 We follow a **33 / 33 / 33 model** for incoming support:
 
@@ -62,14 +62,14 @@ We follow a **33 / 33 / 33 model** for incoming support:
 - **33% Reserves**: Legal fees, emergency buffer, nonprofit filing, growth support.
 - **33% Operations**: Tech tools, digital outreach, content creation, basic compensation.
 
-### 🔐 Compensation & Limits
+### Compensation & Limits
 
 - **Founder compensation is capped** at a modest living wage.
 - No bonuses, perks, or luxury spending.
 - No compensation ever based on donation amount or status.
 - All funds are used for tools, logistics, and impact—not for personal enrichment.
 
-### 📄 Documentation Tools
+### Documentation Tools
 
 We’re currently transitioning into using:
 
@@ -80,7 +80,7 @@ We’re currently transitioning into using:
 
 ---
 
-## 🧱 Trust Starts Now
+## Trust Starts Now
 
 Even while we are small, we act as if the world is watching—because one day it will be.
 
@@ -92,7 +92,7 @@ We welcome your accountability.
 
 ---
 
-## 🕯 Final Note: A Culture of Clarity
+## Final Note: A Culture of Clarity
 
 Transparency isn’t a PR strategy—it’s how we **prevent corruption**, **dispel confusion**, and **build a new culture**.
 
