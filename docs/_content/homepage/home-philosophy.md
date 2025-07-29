@@ -1,7 +1,3 @@
----
-layout: default
-title: home-philosophy
----
 
 ## Unity Without Uniformity
 
