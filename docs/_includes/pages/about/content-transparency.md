@@ -1,109 +1,120 @@
+**Updated: July 2025 — Draft v1.1**
+
+---
+
+##  Current Status (as of July 2025)
+
+SOUL is an open-source experiment in decentralized humanitarian design.
+
+- **Funding**: None (yet)
+- **Team**: One human (so far) + one AI
+- **Legal Entity**: Not formed (yet)
+- **Infrastructure**: Patreon, Discord, GitHub
+- **Version**: Alpha
+- **Phase**: Vision crystallization & core structure
+- **Open Beta**: Coming soon
+
+This project is being prototyped publicly, transparently, and with a deep desire for collaboration. It’s a personal vision that’s being translated into something open-source and replicable—so that anyone, anywhere, can co-own it and make it real.
+You are welcome to:
+
+- 🧪 Test the framework  
+- ✍️ Help improve documents  
+- 🎨 Design tools or visuals  
+- 🏗️ Start a prototype Node  
+- 💬 Ask hard questions  
+
+---
 
 ## Why Transparency Matters
 
-The Society of Unified Life (SOUL) is built on a single, quiet truth: that trust is earned through clarity, not persuasion.
+SOUL is built on the belief that **power should be accountable**, and **trust must be earned** through openness—not image.
 
-We are not a business.  
-We are not a church.  
-We are not a political party.
+We don’t believe in gatekeeping ideas, exaggerating progress, or creating artificial mystique.
 
-We are a **decentralized humanitarian framework**—an open-source experiment in cooperative, nonviolent, and transparent living. And if we are to stand for anything at all, it must begin with openness.
+This isn’t a brand.
+This isn’t a pitch.
+This is a public prototype.
 
-This document is our first step toward radical clarity. It’s not perfect—but it’s honest. And it will evolve.
-
----
-
-## What Transparency Means to Us
-
-Our transparency is guided by four key principles:
-
-1. **Open by Default**  
-   Information is public unless there’s a strong ethical reason to protect it (e.g., personal privacy or safety).
-
-2. **Receipts or It Didn’t Happen**  
-   Every expense is documented. Every major decision is logged. Every role is explained.
-
-3. **Decentralized Accountability**  
-   No single person holds unchecked power. Peers, supporters, and local circles hold each other to account.
-
-4. **Clarity Over Spin**  
-   No marketing fluff. Just real data, context, and honest answers.
+Transparency is how we protect our values *before* there's money, status, or power at stake. We begin how we mean to continue.
 
 ---
 
-## Our Current Operating Reality (as of July 2025)
+## What Transparency Looks Like for SOUL
 
-We’re still in **Phase 1: Seeding the Vision**. That means:
+Here are the **specific ways** we practice and aspire to transparency:
 
-- **Founder-run**: Most of the labor is currently being done by one person (Aaron), who is developing documents, coordinating Discord and web infrastructure, and managing outreach.
+### Financial Transparency
 
-- **Public-facing assets live**:
-  - [Website](https://societyofunifiedlife.org)
-  - [Discord server](https://discord.gg/q7fjhCwk)
-  - [Patreon](https://patreon.com/SocietyofUnifiedLife)
-  - [YouTube channel](https://youtube.com/@SocietyofUnifiedLife)
+- All income and spending will be tracked in a **public ledger**
+- Major purchases include **photos, receipts, or explanations**
+- Monthly **financial reports** will be shared via Discord and Patreon
+- Compensation (if and when it begins) will be **capped and disclosed**
 
-- **No paid staff** yet, but seeking minimum income for full-time focus via Patreon.
+We currently follow a **33 / 33 / 33 model** for future budgeting:
 
-- **Transparency documents live**:
-  - Strategic outline, financial plan, role frameworks, and operational models are publicly available.
+- 33% for **direct humanitarian aid**
+- 33% for **savings/reserves**
+- 33% for **infrastructure and operations**
 
-- **Ledger is launching soon**: We will maintain a public Google Sheet or Notion ledger detailing all income and expenses, down to the penny.
-
----
-
-## How We Handle Money
-
-### Financial Model
-
-We follow a **33 / 33 / 33 model** for incoming support:
-
-- **33% Humanitarian**: Supplies for real-world action (cleanup gear, food, outreach kits).
-- **33% Reserves**: Legal fees, emergency buffer, nonprofit filing, growth support.
-- **33% Operations**: Tech tools, digital outreach, content creation, basic compensation.
-
-### Compensation & Limits
-
-- **Founder compensation is capped** at a modest living wage.
-- No bonuses, perks, or luxury spending.
-- No compensation ever based on donation amount or status.
-- All funds are used for tools, logistics, and impact—not for personal enrichment.
-
-### Documentation Tools
-
-We’re currently transitioning into using:
-
-- **Google Sheets / Notion** for our initial public ledger
-- **Monthly transparency reports** shared via Discord and Patreon
-- **Receipts and photos** linked for larger expenses
-- **OpenCollective** and other audit-friendly platforms (in progress)
+Right now? We haven’t spent or received a dollar.
 
 ---
 
-## Trust Starts Now
+###  Structural Transparency
 
-Even while we are small, we act as if the world is watching—because one day it will be.
+- No paywalls for core content—**everything is shared freely**
+- No private strategy groups—**all major docs are open for feedback**
+- The Discord server will have **public meeting logs** and discussion history
+- Node and Nexus designs include **rotating leadership and open notes**
+- All decisions about the project structure are published and discussable
 
-We are not asking for blind faith. We are inviting **shared vigilance**.
-
-We welcome your ideas.  
-We welcome your feedback.  
-We welcome your accountability.
+There are no hidden leaders. No steering committee. Just one person trying to do this the right way—with full visibility.
 
 ---
 
-## Final Note: A Culture of Clarity
+### Ideological Transparency
 
-Transparency isn’t a PR strategy—it’s how we **prevent corruption**, **dispel confusion**, and **build a new culture**.
+- We are **not a political party, religion, or protest movement**
+- There is **no central belief required** to participate
+- Our philosophy is written plainly and openly [link to philosophy](https://societyofunifiedlife.github.io/SOUL-Website/about/philosophy.html)
+- We encourage thoughtful debate, revision, and public dialogue
+- We invite scrutiny—not to "win" arguments, but to improve alignment
 
-You don’t need to agree with us to hold us accountable.  
-You don’t need to donate to ask hard questions.
+---
 
-We welcome scrutiny—not because we want control, but because we’re building something that should never need it.
+### Operational Transparency
 
-This is the beginning of our relationship with you.
+- All SOUL documents will be **versioned**, timestamped, and open to review
+- GitHub (or equivalent) will house a growing library of source files
+- Discord and Patreon are **real-time mirrors** of project development
+- Any future app/tool will be **open-source and documented for audit**
 
-Thank you for holding us to the standard we hope to represent.
+In the future, contributors will have clear options for anonymous vs. public collaboration, with peer review systems and clear records of what’s being built and why.
+
+---
+
+## The Road Ahead
+
+We hope to soon:
+
+- **Launch our first test Nodes** through park cleanups and service gatherings
+- **Incorporate as a nonprofit** (once it’s safe and necessary)
+- **Onboard contributors** to help refine tools and build shared systems
+- **Run our first open feedback cycles** with playtesters and aligned volunteers
+
+None of this happens without trust, and **trust begins today**—not after the grant, the logo, or the follower count.
+
+---
+
+## Final Note: The Culture We’re Creating
+
+We don’t sell influence.  
+We don’t buy loyalty.  
+We don’t pretend to be further along than we are.
+
+If we are to demonstrate a better way of building trust, leadership, and systems—**we must live that better way from the start.**
+
+Thank you for holding us to it.
 
 **We stand together.**  
-— SOUL Team
+—SOUL Foundation Team
