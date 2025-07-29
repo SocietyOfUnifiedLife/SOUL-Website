@@ -1,5 +1,5 @@
 
-# SOUL: A Quiet Flame for a Loud World
+## A Quiet Flame for a Loud World
 
 Welcome—this isn’t a pitch as much as an invitation.
 
