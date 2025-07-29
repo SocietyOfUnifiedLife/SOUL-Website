@@ -11,7 +11,7 @@
     </h1>
     <div class="prose prose-invert prose-xl max-w-4xl text-left">
       {% capture page_text %}
-        {% include_relative {{ include.markdown }} %}
+        {% include {{ include.markdown }} %}
       {% endcapture %}
       {{ page_text | markdownify }}
     </div>
