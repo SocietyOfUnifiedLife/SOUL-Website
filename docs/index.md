@@ -36,7 +36,7 @@ title: Home
    title="Get Involved"
    markdown="home-quick-start.md"
    bg="network_2.jpg"
-   link="/about/quick-start-guide.html"
+   link="/get-started/quick-start-guide.html"
    button="Quick-Start Guide"
    flip="md:flex-row-reverse" 
 %}
