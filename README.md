@@ -1,95 +1,90 @@
-### # 🕊️ Society of Unified Life (SOUL)
+# SOUL – Society of Unified Life  
+*A quiet flame for a loud world.*
 
-> *A quiet flame for a loud world.*
-> SOUL is a decentralized, humanitarian framework for peaceful global cooperation.
+Welcome to the **official website repository** for the Society of Unified Life (SOUL)—a decentralized, nonviolent, open-source humanitarian framework.
 
----
-
-### ## 📜 What Is SOUL?
-
-The **Society of Unified Life** (SOUL) is a grassroots, open-source system for organizing community action, humanitarian service, and ethical leadership—without hierarchy or coercion.
-
-We help people form local chapters (Nodes), coordinate decentralized missions, and build a peaceful, transparent alternative to systems of control.
-
-SOUL is not a revolution. It’s a quiet alignment.
+This repo contains the static codebase and content for the SOUL public website:  
+[SOUL Website](https://societyofunifiedlife.github.io/SOUL-Website/)
 
 ---
 
-### ## 🔧 What This Repo Contains
+## What Is SOUL?
 
-This repository houses the foundational documentation, strategies, and tools for SOUL, including:
+**SOUL** is a grassroots framework designed to help humanity collaborate across borders without coercion or hierarchy.
 
-| Folder/File               | Description                                                 |
-| ------------------------- | ----------------------------------------------------------- |
-| `documents/`              | Full documentation and strategic materials                  |
-| `documents/framework/`    | Core philosophical and structural guides                    |
-| `documents/strategy/`     | Launch strategies, financial plans, and outreach blueprints |
-| `roadmap/phases.md`       | Phase-by-phase implementation plan                          |
-| `roadmap/active-tasks.md` | Optional running task list                                  |
-| `README.md`               | This file—overview of SOUL and navigation aid               |
+We offer:
 
----
+- Tools for forming local chapters ("Nodes")
+- Open-source strategy for peaceful cultural realignment
+- Ethical leadership principles and decentralized missions
+- Transparency-first practices with no central authority
 
-### ## 🌍 Vision & Values
+We’re not here to seize power—we’re here to model something better.
 
-SOUL exists to help humanity:
-
-* Collaborate across borders without conquest
-* Replace coercion with cooperation
-* Resolve conflict through nonviolence and care
-* Lead through transparency, not control
-* Create localized healing with global alignment
-
-Core values: **Nonviolence**, **Transparency**, **Decentralization**, **Service**, **Diversity**, **Integrity**
+> No ideology required. Just care, clarity, and cooperation.
 
 ---
 
-### ## 🛠️ Get Involved
+## What's in This Repo
 
-There are many ways to engage:
+This repository powers the **Jekyll-based SOUL website** hosted via GitHub Pages.
 
-* Read through our [Framework Documents](https://github.com/AaronBClark/SOUL/tree/main/documents/framework)
-* Explore the [Strategy Guides](https://github.com/AaronBClark/SOUL/tree/main/documents/strategy)
-* Join our [Discord community](https://discord.gg/ttAHsppjDh) 
-* Support our work on [Patreon](https://www.patreon.com/c/SocietyofUnifiedLife) 
+Key contents include:
 
-You don’t need to donate or commit—just explore and align.
-
----
-
-### ## 🔎 Start Here
-
-If you're new, we recommend starting with:
-
-* [`docs/framework/01_introduction.md`](https://github.com/AaronBClark/SOUL/blob/main/documents/framework/01_introduction.md)
-* [`docs/framework/02_strategic_vision.md`](https://github.com/AaronBClark/SOUL/blob/main/documents/framework/02_strategic_vision.md)
-* [`docs/framework/03_philosophy.md`](https://github.com/AaronBClark/SOUL/blob/main/documents/framework/03_philosophy.md)
+| Folder/File     | Purpose                                        |
+| --------------- | ---------------------------------------------- |
+| `/index.html`   | Main landing page for the site                 |
+| `/images/`      | All image assets (headers, icons, backgrounds) |
+| `/styles/`      | Site styling (Tailwind CSS via CDN)            |
+| `/_includes/`   | Optional partials used in templating (if used) |
+| `/_layouts/`    | Page layout templates                          |
+| `/README.md`    | This file                                      |
 
 ---
 
-### ## 📅 Roadmap
+## Looking for the Core SOUL Framework?
 
-We are currently in:
+This repo is only the **website**. The **full philosophy, governance model, and strategic documents** live in our primary documentation repository:
 
-**🟢 Phase 1: Local Prototype**
+[SOUL Framework & Strategy Docs](https://github.com/SocietyOfUnifiedLife/SOUL-Nexus)
 
-* Casual park cleanups
-* Documentation of methods
-* Refining internal structure
-* No branding or ideology—just service
+There you’ll find:
 
-Upcoming phases: chapter formation, media rollout, and global node empowerment. See [`roadmap/phases.md`](https://github.com/AaronBClark/SOUL/blob/main/roadmap/phases.md) for full breakdown (coming soon).
-
----
-
-### ## 💬 Contributing
-
-For now, this is a founder-led initiative in early development. Contributions are welcome through ideas, feedback, or alignment.
-
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) *(coming soon)* for ways to get involved.
+- The Introduction and Philosophy
+- Node blueprints and role guides
+- Transparency, financial, and crisis protocols
+- Strategic roadmap and launch plans
 
 ---
 
-### ## 🛡️ License
+## Where to Start
 
-This work is open-source and dedicated to the public domain under the [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) license.
+Whether you found this repo through GitHub or our website, here are the best next steps:
+
+1. Visit [SOUL Website](https://societyofunifiedlife.github.io/SOUL-Website/) to see the public site    
+2. Join our [Discord server](https://discord.gg/q7fjhCwk) to explore and connect  
+3. Support the work on [Patreon](https://patreon.com/SocietyofUnifiedLife)
+
+You’re free to explore, remix, and contribute. No pressure.
+
+---
+
+## Contributions & Feedback
+
+This repo is currently maintained by the founder. Contributions to the **website** are welcome in the form of:
+
+- Bug fixes or formatting improvements  
+- Design tweaks or accessibility suggestions  
+- Feedback on clarity and layout  
+
+Pull requests will be reviewed with gratitude.
+
+For contributions to the **SOUL framework**, please visit the [main repo](https://github.com/SocietyOfUnifiedLife/SOUL-Nexus) instead.
+
+---
+
+## License
+
+This website and all content herein is open-source and released into the public domain under the [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/) license.
+
+Build with care. Share freely.
