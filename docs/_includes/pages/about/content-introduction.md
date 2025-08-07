@@ -1,5 +1,5 @@
 
-**Updated: August 2025 — Draft v2.0**
+**Updated: August 2025 — Draft v2.1**
 
 ---
 
@@ -98,20 +98,24 @@ There are no demands, slogans, or enemies—just a **global heartbeat of alignme
 
 ---
 
-## 🧭 A Framework for Connection, Not Control
+## A Framework for Connection, Not Control
 
-SOUL isn’t built to command. It’s built to **invite**.
+SOUL isn’t built to command. It’s built to invite.
 
-It offers a simple, repeatable model for mission planning and decision-making that works for anything from a local meal distribution to a regional summit:
+It offers a simple, repeatable model for mission planning and decision-making that works for anything from a local meal distribution to a regional summit—or even a global initiative:
 
-1. 📜 Someone proposes a mission  
-2. 📣 The community gives input and signs on  
-3. 🧭 Coordinators review feasibility  
-4. 🧠 Councils check for alignment with SOUL values  
-5. 🗳️ A soft vote finalizes approval  
-6. ✅ Aligned volunteers form teams and begin action
+- 📜 **Anyone** can propose a mission or initiative  
+- 📣 The community gives input and signs on via petition  
+- 🧭 **Coordinators** review feasibility  
+- 🧠 **Councils** check for alignment with SOUL’s core principles  
+- 🗳️ A popular vote is held — **nothing proceeds without majority support**  
+- ✅ Aligned volunteers form task forces and begin coordinated action
 
-It’s a system of consent, clarity, and shared responsibility.
+Proposals may also be submitted by Coordinators or Council members. But even these must follow the same flow—receiving full approval before proceeding.
+
+This process repeats at every level of scale, from teams to nodes to constellations and beyond. Participation is always voluntary: even after approval, **no individual, team, or node is ever forced to join a mission that doesn’t align with them**.
+
+It’s a system of consent, clarity, and shared responsibility — designed for trust, not control.
 
 ---
 
