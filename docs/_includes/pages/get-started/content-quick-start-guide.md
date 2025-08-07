@@ -1,3 +1,4 @@
+
 *What can I do today – right now – based on my current readiness?*
 
 ---
