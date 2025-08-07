@@ -131,22 +131,31 @@ In SOUL, leadership isn’t about command—it’s about coordination. Those who
 
 The best leaders in SOUL don’t seek control—they create clarity, hold space, and help the mission succeed. Leadership is not status—it’s stewardship.
 
-### \### Adaptability
+### Adaptability
 
-\*\*We grow by listening.\*\*
+**We grow by listening.**
 
 SOUL is a living system—modular, evolving, and built for change. We don't enforce fixed structures or permanent roles. Instead, we adapt to meet the needs of the moment, learning from what works and improving what doesn’t. Nodes and teams are free to customize the framework to fit their local cultures, conditions, and capacities.
 
-\* We treat experimentation as essential to growth  
-\* We build feedback loops into our missions and meetings  
-\* We share what we learn across the network so others can adapt too  
-\* We stay responsive to the real world—not rigid to old ideas
+- We treat experimentation as essential to growth  
+- We build feedback loops into our missions and meetings  
+- We share what we learn across the network so others can adapt too  
+- We stay responsive to the real world—not rigid to old ideas
 
 Adaptability doesn’t mean chaos. It means staying grounded in our values while allowing our methods, tools, and traditions to grow with us. What matters is not doing things the “right” way—but doing them better together, over time.
 
 ### Grace for Imperfection
 
-**We forgive ourselves and others.** Growth is not linear. Mistakes are inevitable. What matters is how we respond. We practice accountability with compassion, making space for learning, repair, and redemption. We give each other room to evolve without shame.
+**We forgive ourselves and others.**
+
+No one is perfect, and growth is never a straight line. In SOUL, we don’t shame mistakes—we learn from them. We hold ourselves and each other accountable with compassion, making space for reflection, repair, and resilience. This grace strengthens us, not by lowering standards, but by honoring the real process of change.
+
+- We normalize failure as part of experimentation and learning  
+- We support restorative practices over punitive responses  
+- We give people room to grow, change, and return after missteps  
+- We model vulnerability and admit when we’re wrong  
+
+Forgiveness isn’t weakness—it’s a deep strength that builds trust. We strive to be a culture that remembers the future is always bigger than the past, and that healing is part of how we move forward—together.
 
 ---
 
