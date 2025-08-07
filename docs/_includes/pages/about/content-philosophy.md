@@ -1,3 +1,6 @@
+**Updated: August 2025 — Draft v2.0**
+
+---
 
 ## Our Moment in History
 
@@ -34,63 +37,9 @@ We are asking for intent.
 
 ## Mission Statement
 
-SOUL is a decentralized humanitarian framework for helping humanity course-correct—through compassion, cooperation, and collective service.
+**SOUL is a decentralized humanitarian framework that empowers everyday people to organize peacefully, serve locally, and align globally.**
 
-We aim to show that a united, nonviolent, and prosperous future is not only possible—but already underway.
-
----
-
-## Core Principles
-
-### Self & Service
-
-1. **Nonviolence as Power**  
-   Strength through peace, not coercion.
-
-2. **Personal Responsibility**  
-   Heal yourself. Then help others.
-
-3. **Service over Status**  
-   Lead by showing up—not by seeking recognition.
-
----
-
-### Transparency & Structure
-
-4. **Transparency Builds Trust**  
-   Secrecy breeds suspicion. Openness invites alignment.
-
-5. **Decentralized Leadership**  
-   Power is shared, not hoarded. Leadership is service.
-
-6. **Growth Through Experimentation**  
-   We learn by doing. We adapt by listening.
-
----
-
-### Unity & Diversity
-
-7. **Inclusion Without Indoctrination**  
-   No one has to believe anything to belong.
-
-8. **Unity Without Uniformity**  
-   Harmony doesn’t require sameness.
-
-9. **Cooperation Over Competition**  
-   We lift each other up—no one is left behind.
-
----
-
-## Scaling the Principles
-
-| Scale            | Expression of Values                                 |
-| ---------------- | ---------------------------------------------------- |
-| **Individual**   | Integrity, emotional maturity, inner alignment       |
-| **Family**       | Respect, healing, modeling clarity                   |
-| **Neighborhood** | Listening, trust-building, local service             |
-| **Chapter**      | Voluntary roles, reflection circles, shared missions |
-| **Nation**       | Ethical governance, cultural preservation            |
-| **Planet**       | Peaceful coexistence, global solidarity              |
+Through autonomous teams and coordinated missions, we cultivate a culture of nonviolence, transparency, and mutual aid—working together across all differences to heal systems, support communities, and embody a more unified life.
 
 ---
 
@@ -98,28 +47,119 @@ We aim to show that a united, nonviolent, and prosperous future is not only poss
 
 **We are:**
 
-- A framework for cooperation and service  
-- A decentralized alignment of values and practice  
-- An evolving blueprint for peaceful, non-hierarchical organization  
+* A framework for cooperation and service  
+* A decentralized alignment of values and practice  
+* An evolving blueprint for peaceful, non-hierarchical organization
 
 **We are not:**
 
-- A political party  
-- A protest movement  
-- A religious group  
-- A central authority  
+* A political party  
+* A protest movement  
+* A religious group  
+* A central authority  
+* A paywalled membership  
+* A demand for conformity
 
 ---
 
-## Why Decentralization?
+## Principles We Live By
 
-Decentralization is not a buzzword—it’s a survival principle.
+*These aren't rules—they're roots.*
 
-- **Resilience** — Local nodes can adapt and respond independently  
-- **Freedom** — No central figure or power to corrupt  
-- **Diversity** — Local autonomy enables cultural respect and innovation  
-- **Trust** — Transparency, openness, and shared power build confidence  
-- **Natural Harmony** — Decentralization reflects the structure of ecosystems  
+### Nonviolence
+
+**Strength through peace.**
+
+Nonviolence isn’t passive—it’s an active, practiced form of strength. In SOUL, we see peace as a skill to develop, not just a belief to hold. It means showing up with calm resolve, even in the face of conflict, and refusing to mirror the harm we oppose. We intervene without domination, protect without escalation, and lead with clarity instead of control.
+
+* We train for de-escalation and conflict navigation  
+* We protect others without becoming aggressors  
+* We hold space for discomfort and dialogue  
+* We break cycles of harm through presence and care
+
+Choosing peace doesn’t mean avoiding tension. It means entering it with integrity. It’s how we model the world we’re trying to build—one courageous, calm interaction at a time. We train to intervene wisely, resolve tensions, and hold safe space for change.
+
+### Transparency
+
+**Truth over secrecy.**
+
+Transparency builds trust. In SOUL, it’s not just a value—it’s a design principle. When people can see clearly, they can act wisely. We believe that openness is the foundation of alignment, and that secrecy breeds confusion, suspicion, and control.
+
+* We keep meetings and decision-making accessible to all members  
+* We track financial flows and publish public reports  
+* We use open-source tools and platforms when possible  
+* We document, archive, and share knowledge freely
+
+Whether it’s money, votes, or methods—if it affects us, it belongs in the light. Transparency isn’t just about seeing—it’s about being seen, and choosing to lead without hidden doors or backroom deals. Nothing essential is hidden. Anyone can inspect and understand how decisions are made and resources are used.
+
+### Decentralization
+
+**Shared power.**
+
+In SOUL, decentralization isn’t about fragmentation—it’s about freedom with connection. Decisions are made close to where they matter, and power is shared instead of hoarded. Like nature, we organize in patterns that scale without collapsing into hierarchy. This principle protects diversity, builds resilience, and invites cooperation.
+
+* We form autonomous teams and nodes that guide their own missions  
+* We coordinate through trust and transparency, not command  
+* We prevent power hoarding by rotating roles and documenting decisions  
+* We align through consent-based processes, not top-down authority
+
+Instead of building pyramids of control, we form networks of care. When leadership is distributed, innovation flourishes—and no one gets left behind.
+
+### Dignity & Diversity
+
+**Harmony doesn’t require sameness.**
+
+In SOUL, we believe diversity is not just accepted—it’s essential. We don’t require everyone to think, believe, or act the same to build something meaningful together. Unity should never come at the cost of individuality. We seek to make space for all identities and backgrounds, holding mutual respect as the foundation.
+
+* We invite participation regardless of belief, background, or identity  
+* We design processes that uplift underrepresented voices  
+* We resolve conflict without erasing difference  
+* We honor cultural context while staying true to shared values
+
+To build real unity, we must first make room for difference. Everyone deserves to be seen fully and treated with dignity—not despite who they are, but because of it.
+
+### Service Over Status
+
+**Leadership is earned through care.**
+
+In SOUL, leadership isn’t about command—it’s about coordination. Those who lead do so by earning trust, showing up consistently, and facilitating others’ success. Coordinators and councilors are selected through open consent and endorsement, not self-promotion or authority. Their roles are temporary, voluntary, and always accountable to the teams they serve.
+
+* We rotate roles to prevent ego consolidation  
+* We use transparent votes and endorsements to choose leadership  
+* We support leaders who empower others, not those who dominate  
+* We ensure leaders organize and guide, but never use force
+
+The best leaders in SOUL don’t seek control—they create clarity, hold space, and help the mission succeed. Leadership is not status—it’s stewardship.
+
+### \### Adaptability
+
+\*\*We grow by listening.\*\*
+
+SOUL is a living system—modular, evolving, and built for change. We don't enforce fixed structures or permanent roles. Instead, we adapt to meet the needs of the moment, learning from what works and improving what doesn’t. Nodes and teams are free to customize the framework to fit their local cultures, conditions, and capacities.
+
+\* We treat experimentation as essential to growth  
+\* We build feedback loops into our missions and meetings  
+\* We share what we learn across the network so others can adapt too  
+\* We stay responsive to the real world—not rigid to old ideas
+
+Adaptability doesn’t mean chaos. It means staying grounded in our values while allowing our methods, tools, and traditions to grow with us. What matters is not doing things the “right” way—but doing them better together, over time.
+
+### Grace for Imperfection
+
+**We forgive ourselves and others.** Growth is not linear. Mistakes are inevitable. What matters is how we respond. We practice accountability with compassion, making space for learning, repair, and redemption. We give each other room to evolve without shame.
+
+---
+
+## Scaling the Principles
+
+| Scale             | Expression of Values                                  |
+|-------------------|--------------------------------------------------------|
+| **Individual**    | Integrity, emotional maturity, inner alignment         |
+| **Family**        | Respect, healing, modeling clarity                     |
+| **Team**          | Mutual aid, local presence, shared skill practice      |
+| **Node**          | Rotating roles, reflection circles, community service  |
+| **Constellation** | Regional collaboration, resource sharing, solidarity   |
+| **Planet**        | Peaceful coexistence, global coordination              |
 
 ---
 
@@ -129,10 +169,11 @@ Decentralization is not a buzzword—it’s a survival principle.
 
 **Start here:**
 
-- Be honest—with yourself and others.  
-- Heal what you can in your personal life.  
-- Do small things that serve your local community.  
-- Align with others who share your intent.  
+* Be honest—with yourself and others.  
+* Heal what you can in your personal life.  
+* Do small things that serve your local community.  
+* Align with others who share your intent.  
+* Check in regularly with your intent, your team, and your alignment.
 
 Let your life become your message.
 
@@ -142,15 +183,15 @@ Let your life become your message.
 
 **To Members:**
 
-- No loyalty required—only honesty and care.  
-- Leadership rotates. Power is earned through trust, not status.  
-- Everyone is welcome—regardless of belief, background, or wealth.  
+* No loyalty required—only honesty and care.  
+* Leadership rotates. Power is earned through trust, not status.  
+* Everyone is welcome—regardless of belief, background, or wealth.
 
 **To the World:**
 
-- We offer a peaceful alternative—not a battle for control.  
-- We stand for clarity, compassion, and coordination.  
-- We show what's possible by doing—not preaching.  
+* We offer a peaceful alternative—not a battle for control.  
+* We stand for clarity, compassion, and coordination.  
+* We show what's possible by doing—not preaching.
 
 ---
 
