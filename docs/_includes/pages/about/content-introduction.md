@@ -1,3 +1,8 @@
+
+**Updated: August 2025 — Draft v2.0**
+
+---
+
 # SOUL: A Quiet Flame for a Loud World  
 *Not a revolution — an evolution.*
 
